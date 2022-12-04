@@ -15,6 +15,6 @@ public class TeleportLoc1 : MonoBehaviour
 
     public void button_pressed(CollisionNotifier.EventData data)
     {
-        player.transform.position = new Vector3(-29, 5, 9);
+        player.transform.position = new Vector3(-30, 6, 8);
     }
 }
